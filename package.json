@@ -1,0 +1,18 @@
+{
+    "name": "dockerizepipeline",
+    "version": "1.0.0",
+    "description": "SimpliLearn Project",
+    "main": "test.js",
+    "directories": {
+      "test": "test"
+    },
+    "scripts": {
+      "test": "mocha"
+    },
+    "author": "Ravi Kumar",
+    "license": "ISC",
+    "devDependencies": {
+      "chai": "^4.1.1",
+      "mocha": "^3.5.0"
+    }
+  }
